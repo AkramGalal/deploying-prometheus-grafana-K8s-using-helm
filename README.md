@@ -1,4 +1,4 @@
-# Monitoring Multi-Tier Java Web Application on Kubernetes with Prometheus & Grafana (Helm)
+# Monitoring Multi-Tier Java Web Application on K8s with Prometheus & Grafana (Helm)
 
 This project demonstrates how to deploy and monitor a multi-tier Java web application on a Kubernetes (K8s) cluster.  
 It extends the base application deployment by installing **Prometheus** and **Grafana** (via Helm charts) to collect metrics and visualize application and cluster performance.
