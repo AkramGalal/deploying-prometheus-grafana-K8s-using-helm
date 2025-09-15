@@ -76,12 +76,14 @@ This kube-prometheus-stack is a one-shot deployment of everything you need to mo
   helm upgrade prometheus prometheus-community/kube-prometheus-stack   --namespace monitoring   -f values.yaml
   ```
 
-### Step 6: 
+### Step 6: Check cluster status
 - Check the `monitoring` namespace for running components.
   <img width="2167" height="1212" alt="Screenshot 2025-09-15 162316" src="https://github.com/user-attachments/assets/6c342e05-5d66-4c8c-80a4-274726859183" />
 
-
-### Access Dashboards
+### Step 7: Access Dashboards
 - Access Grafana dashboard.
   <img width="3599" height="1831" alt="Screenshot 2025-09-15 195511" src="https://github.com/user-attachments/assets/a7df7ba3-a146-47e6-b554-a5c79a9db9eb" />
 
+## Resources
+- [kube-prometheus-stack on Artifact Hub](https://artifacthub.io/packages/helm/prometheus-community/kube-prometheus-stack)
+- [Official Helm Documentation](https://helm.sh/docs/)
