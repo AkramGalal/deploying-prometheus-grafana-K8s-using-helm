@@ -84,6 +84,6 @@ This kube-prometheus-stack is a one-shot deployment of everything you need to mo
 - Access Grafana dashboard.
   <img width="3599" height="1831" alt="Screenshot 2025-09-15 195511" src="https://github.com/user-attachments/assets/a7df7ba3-a146-47e6-b554-a5c79a9db9eb" />
 
-## Resources
+## References
 - [kube-prometheus-stack on Artifact Hub](https://artifacthub.io/packages/helm/prometheus-community/kube-prometheus-stack)
 - [Official Helm Documentation](https://helm.sh/docs/)
