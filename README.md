@@ -1,9 +1,6 @@
 # Deploying Prometheus and Grafana on Kubernetes Using Helm
 This project demonstrates how to deploy Prometheus and Grafana on a Kubernetes (K8s) cluster using Helm. It uses the official kube-prometheus-stack Helm chart from the Prometheus Community repository to set up a full monitoring stack.
 
-<img width="549" height="382" alt="493312281-5c22d83d-eef9-4df5-a0e0-045e3ccee3cb" src="https://github.com/user-attachments/assets/b0746c85-abb7-4239-84e4-9502b6ede952" />
-
-
 ## kube-prometheus-stack Architecture
 This kube-prometheus-stack is a one-shot deployment of everything you need to monitor a K8s cluster. It consists of:
 
